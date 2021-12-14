@@ -1,5 +1,19 @@
 ### Hi everyone! 👋
 
+My name is **Jesús Casañas** and I'm a **Full Stack Developer** specialized in technologies:
+
+  * HTML5
+  * CSS3
+  * Sass
+  * Javascript
+  * Typescript
+  * ReactJS
+  * Next.js
+  * Node.js
+  * Express.js
+  * MongoDB
+  * MySQL
+
 <!--
 **mrjesusenrique/mrjesusenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
