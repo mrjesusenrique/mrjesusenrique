@@ -13,8 +13,7 @@ My name is **Jesús Casañas** and I'm a **Full Stack Developer** specialized in
   * Node.js
   * Express.js
   * MongoDB
-  * MySQL
-
+  * 
 ````html
 <h1>Welcome!</h1>
 ````
