@@ -7,7 +7,7 @@ My name is **Jesús Casañas** and I'm a **Full Stack Developer** specialized in
   * Sass
   * Javascript
   * Typescript
-  * ReactJS
+  * React
   * Hooks
   * Redux
   * Next.js
